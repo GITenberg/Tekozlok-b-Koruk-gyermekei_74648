@@ -6,6 +6,9 @@ contributor:
     alias: Acs, Geza
     gutenberg_agent_id: '56774'
     url: http://www.gutenberg.org/2009/agents/56774
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamsun, Knut
@@ -23,6 +26,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Knut_Hamsun
     - https://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74648#Tekozlok-b-Koruk-gyermekei
 gutenberg_issued: '2024-10-27'
 gutenberg_type: Text
 identifiers:
